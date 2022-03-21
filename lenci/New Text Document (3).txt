@@ -1,0 +1,4 @@
+<div>
+                    <button type = "button" class = "btn login-btn">Login</button>
+                    <button type = "button" class = "btn register-btn">Register</button>
+                </div>
